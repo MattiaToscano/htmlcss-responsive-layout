@@ -1,1 +1,45 @@
 /* Soluzione qui */
+
+@media screen and (min-width:768px){
+    
+    #topbar{
+        justify-content: left;
+    }
+
+    .container {
+        padding: 40px;
+    }
+
+    .recipe-origin{
+        display: inline;
+    }
+    
+    .recipe-title{
+        font-size: 30px;
+    }
+
+    .quick-notes ul{
+        display: flex;
+    }
+
+    .quick-notes li{
+        padding: 15px;
+    }
+
+
+    .social-networks .btn{
+        font-size: 40px;
+    }
+    
+    .ads{
+        display: inline;
+    }
+
+   
+    
+
+   
+
+
+}
+    
