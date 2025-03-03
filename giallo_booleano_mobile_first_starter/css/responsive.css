@@ -33,13 +33,41 @@
     
     .ads{
         display: inline;
+    
+}
+    .clearfix img{
+        float: left;
+        padding: 10px;
+    }
+}
+    
+
+
+@media screen and (min-width: 992px){
+
+    .recipe-title{
+        font-size: 50px;
+    }
+
+    .quick-notes ul{
+        flex-direction: column;
+        
     }
 
    
-    
+    .social-networks .label{
+        display: inline;
+        font-size: 20px;
+    }
 
-   
+    footer{
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+
+
 
 
 }
-    
