@@ -1,9 +1,25 @@
 /* Soluzione qui */
 
+@media screen and (min-width: 576px) {
+    .clearfix img{
+        float: left;
+    }
+
+    .social-networks button{
+        padding: 10px 40px;
+    }
+
+    .recipe-video img{
+        width: 100%;
+    }
+
+
+
+}
+
+
 @media screen and (min-width:768px){
     
-    
-
     #topbar{
         justify-content: left;
     }
@@ -61,7 +77,6 @@
 
 
 @media screen and (min-width: 992px){
-
 
     .recipe-card{
         display: flex;
