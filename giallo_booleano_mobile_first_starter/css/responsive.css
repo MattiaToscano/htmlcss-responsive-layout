@@ -31,6 +31,8 @@
 
     .social-networks .btn{
         font-size: 40px;
+        padding: 0 50px 0 50px;
+        margin-bottom: 30px;
     }
     
     .ads{
@@ -40,6 +42,10 @@
     .clearfix img{
         float: left;
         padding: 10px;
+    }
+
+    .recipe-video{
+        margin-bottom: 40px;
     }
 
     .recipe-video img{
