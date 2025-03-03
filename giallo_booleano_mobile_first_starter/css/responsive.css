@@ -2,6 +2,8 @@
 
 @media screen and (min-width:768px){
     
+    
+
     #topbar{
         justify-content: left;
     }
@@ -39,6 +41,13 @@
         float: left;
         padding: 10px;
     }
+
+    .recipe-video img{
+        width: 100%;
+    
+    }
+
+
 }
     
 
